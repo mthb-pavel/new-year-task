@@ -1,4 +1,9 @@
 /* for nav */
+
+
+*{
+     margin-bottom: 66px;
+}
 .head-contenair{
     margin-top: 50px;
     margin-left: 140px;
@@ -13,7 +18,8 @@
     color: #FF0000;
    font-weight: bold;
    font-size: 88px;
-   text-align: center;
+    margin-left: 390px;
+    margin-right: 390px;
 }
 /* font-family */
 
@@ -34,17 +40,43 @@
     font-weight: 10px;
     font-size: 24px;
     color: #FF0000;
-     text-align: center;
+      margin-left: 390px;
+    margin-right: 390px;
     
 }
 .holiday-deals-all-categories{
     font-weight: bold;
     font-size: 48px;
     color: #070211;
-    text-align: center;
+     margin-left: 390px;
+    margin-right: 390px;
 }
 .off-img{
     margin-left: 390px;
     margin-right: 390px;
     
+}
+/* midnight */
+.img-midnight{
+    max-width: 100%;
+    height: auto;
+    
+}
+.midnight-contanir{
+    position: relative;
+}
+.midnight-text{
+    position: absolute;
+    top: 0px;
+    color: #FFFFFF;
+    padding: 100px;
+}
+.mid-wel{
+    font-size: 64px;
+    font-weight: bold;
+}
+.mid-para{
+   color:#FFFFFF;
+   font-size: 18px;
+   
 }
