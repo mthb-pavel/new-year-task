@@ -1,0 +1,30 @@
+/* for nav */
+.head-contenair{
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+    width: 1220px;
+    height: 600px;
+    margin-bottom: 120px;
+    display: flex;
+}
+/* main-65% off */
+.off-headline{
+    color: #FF0000;
+   font-weight: bold;
+   font-size: 88px;
+}
+/* font-family */
+
+
+.font-family {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.holiday-deals{
+    font-weight: 50px;
+    font-size: 24px;
+    color: #FF0000;
+}
