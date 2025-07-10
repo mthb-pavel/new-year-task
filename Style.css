@@ -13,9 +13,16 @@
     color: #FF0000;
    font-weight: bold;
    font-size: 88px;
+   text-align: center;
 }
 /* font-family */
 
+
+/* .off-contenair { */
+    display: flex;
+   margin:0 auto;
+   width: 100%;
+}
 
 .font-family {
   font-family: "Inter", sans-serif;
@@ -24,7 +31,20 @@
   font-style: normal;
 }
 .holiday-deals{
-    font-weight: 50px;
+    font-weight: 10px;
     font-size: 24px;
     color: #FF0000;
+     text-align: center;
+    
+}
+.holiday-deals-all-categories{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    text-align: center;
+}
+.off-img{
+    margin-left: 390px;
+    margin-right: 390px;
+    
 }
